@@ -1,0 +1,26 @@
+{
+  "name": "aps-bulk-ifc-data-exchange",
+  "version": "1.0.0",
+  "description": "APS Bulk Create IFC Data Exchange",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "autodesk",
+    "aps", 
+    "ifc",
+    "data-exchange",
+    "file-hierarchy",
+    "authentication",
+    "sso"
+  ],
+  "author": "Autodesk Platform Services",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "forge-apis": "^0.9.9"
+  }
+}
