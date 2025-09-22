@@ -33,7 +33,7 @@
 This sample demonstrates bulk creating IFC data exchanges using Autodesk Platform Services (APS) with authentication and file hierarchy management. The application allows users to efficiently create multiple IFC data exchanges within a single project and folder structure within Autodesk Construction Cloud (ACC).
 
 ## Thumbnail
-![thumbnail](/thumbnail.png)lder
+![thumbnail](/thumbnail.png)
 
 ## Prerequisites
 
