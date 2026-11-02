@@ -1,3 +1,6 @@
+<!-- archived-notice -->
+> **This repository is archived.** Archived repositories are not maintained or supported.
+
 <!--
 /////////////////////////////////////////////////////////////////////
 // Copyright 2025 Autodesk Inc
